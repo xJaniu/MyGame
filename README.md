@@ -1,5 +1,5 @@
 # Pygame Game project
-# 
+Simple game which i made for pass my programming subject 
 
 Controls: <br />
 Move: Arrows <br />
