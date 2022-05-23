@@ -1,10 +1,10 @@
 # Pygame Game project
 # 
 
-Control:
-Move: Arrows
-Speed up: Space
-Bullet: Z
+Controls: <br />
+Move: Arrows <br />
+Speed up: Space <br />
+Bullet: Z <br />
 
 ![image](https://user-images.githubusercontent.com/73339661/169847346-3d7a6e89-2af3-4eaa-b659-e5708ff12923.png)
 
